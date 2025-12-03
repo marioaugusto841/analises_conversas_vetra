@@ -403,7 +403,7 @@ def build_app():
 
     app = FastAPI()
 
-    @app.post("/executar")
+    @app.post("/api/executar")
     async def executar(request: Request):
         # 🔐 Autenticação simples via header
         auth_header = request.headers.get("x-api-key") or request.headers.get("authorization")
