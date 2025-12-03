@@ -1,0 +1,51 @@
+id_vetra,company_id,company_name,customer_id,name,phone,status,thread_id,human_controller_id,created_at,updated_at,unread_messages_count,last_message_at,last_message_body,last_message_from,company_tags,supabase_exists
+70089,4,Imobiliária Central,70089,Kátia Rodrigues,5515991976290,active,11793,,2025-10-28T10:15:24.020429Z,2025-10-28T13:05:40.325210Z,4,2025-10-28T13:05:40.419906Z,Bom dia,lead,-,False
+70074,4,Imobiliária Central,70074,Rafael Rocha,5511995813959,active,11780,,2025-10-28T09:43:21.648514Z,2025-10-28T11:03:12.941839Z,0,2025-10-28T11:03:13.783838Z,"Olá! A partir de agora, o (a) Romulo Sotero assumirá a conversa para continuar o seu atendimento.",bot,-,False
+69961,4,Imobiliária Central,69961,Grazielle Aparecida Camargo Honorio,5515991043898,active,11682,,2025-10-28T01:43:12.076782Z,2025-10-28T11:10:35.119264Z,8,2025-10-28T11:10:35.677100Z,"Olá! A partir de agora, o (a) Tiago Zanini assumirá a conversa para continuar o seu atendimento.",bot,-,False
+69909,4,Imobiliária Central,69909,Antônio,5511965666705,active,11638,,2025-10-28T00:35:19.596785Z,2025-10-28T11:26:55.655761Z,0,2025-10-28T11:26:56.536115Z,"Olá! A partir de agora, o (a) CLAUDIO CAMARGO assumirá a conversa para continuar o seu atendimento.",bot,-,False
+69864,4,Imobiliária Central,69864,Anderson Kanda,5511976787189,active,11596,,2025-10-27T23:48:43.363015Z,2025-10-28T11:03:49.709478Z,0,2025-10-28T11:03:50.476102Z,"Olá! A partir de agora, o (a) Romulo Sotero assumirá a conversa para continuar o seu atendimento.",bot,-,True
+69848,4,Imobiliária Central,69848,Lia Corretora de Imóveis,5511917227770,active,11582,,2025-10-27T23:30:53.108837Z,2025-10-27T23:31:16.001947Z,1,2025-10-27T23:31:16.004648Z,Gostaria de mais informações sobre ele ou prefere agendar uma visita para conhecer pessoalmente?,bot,-,True
+69842,4,Imobiliária Central,69842,Tainã Santos,5511941273400,active,11576,,2025-10-27T23:20:59.888768Z,2025-10-28T12:19:56.048620Z,6,2025-10-28T12:19:56.106867Z,"Bom dia, tudo bem?",lead,-,True
+69831,4,Imobiliária Central,69831,Leandro,5511985364024,active,11567,,2025-10-27T23:06:37.965958Z,2025-10-27T23:18:24.473774Z,4,2025-10-27T23:18:25.056655Z,"Olá! A partir de agora, o (a) Lia assumirá a conversa para continuar o seu atendimento.",bot,-,True
+69257,4,Imobiliária Central,69257,Donizete,5511965704691,active,11127,,2025-10-27T02:10:24.896234Z,2025-10-27T11:10:55.912501Z,0,2025-10-27T11:10:57.012034Z,"Olá! A partir de agora, o (a) Vitor Samuel Domingues assumirá a conversa para continuar o seu atendimento.",bot,-,True
+69217,4,Imobiliária Central,69217,Rebeca,5515998146460,active,11097,,2025-10-27T00:30:17.280572Z,2025-10-27T10:53:19.704939Z,0,2025-10-27T10:53:20.556778Z,"Olá! A partir de agora, o (a) Tiago Zanini assumirá a conversa para continuar o seu atendimento.",bot,-,True
+69174,4,Imobiliária Central,69174,Mii Martinni,5511950354389,active,11067,,2025-10-26T22:40:43.318366Z,2025-10-26T22:43:16.048321Z,2,2025-10-26T22:43:16.050715Z,Poderia me contar onde ela fica localizada?,bot,-,True
+69123,4,Imobiliária Central,69123,Lucilene Freire Landim,5511941813986,active,11030,,2025-10-26T21:13:23.955057Z,2025-10-26T21:13:24.325084Z,0,2025-10-26T21:13:24.467037Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [CA1562] Casa à venda com 3 Quartos, Jardim Bom Clima, Guarulhos | Guarulhos, Jardim Bom Clima 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/CA1562 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+69089,4,Imobiliária Central,69089,Stephanieweiber,5511959788222,active,10998,,2025-10-26T20:17:52.894016Z,2025-10-26T21:59:08.368138Z,2,2025-10-26T21:59:08.420029Z,"a Lia está me direcionando, obrigada viu!",lead,-,True
+69056,4,Imobiliária Central,69056,Luzinete Queiroz,5511980969961,active,10966,,2025-10-26T20:12:45.872295Z,2025-10-26T20:12:46.262089Z,0,2025-10-26T20:12:46.404229Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [AP1110] ADS 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/AP1110 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+69034,4,Imobiliária Central,69034,Mario,5511999653348,active,10949,,2025-10-26T20:04:59.706676Z,2025-10-27T13:16:12.815692Z,2,2025-10-27T13:16:12.873265Z,"A minha filha mora no Horto, porém, não posso comprar casa em condomínio. Tem que ser um bairro relativamente bom.",lead,-,True
+69024,4,Imobiliária Central,69024,Vagner Oliveira,5511988594565,active,10942,,2025-10-26T20:02:34.386044Z,2025-10-26T20:02:34.755101Z,0,2025-10-26T20:02:34.906595Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [AP1110] ADS 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/AP1110 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+68989,4,Imobiliária Central,68989,Raquel Abreu,5511999975366,active,10914,,2025-10-26T19:56:40.042495Z,2025-10-26T19:56:40.627346Z,0,2025-10-26T19:56:40.839344Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [AP2351] Consultaram seu WhatsApp no anúncio Apartamento a venda - Condomínio Parque Imperi ...! CÓD: - REF:#154928203# | Guarulhos, Jardim Flor da Montanha 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/AP2351 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+68947,4,Imobiliária Central,68947,Cicera Anielia N. Avelino,5588988300476,active,10881,,2025-10-26T19:51:13.177878Z,2025-10-26T19:51:13.534707Z,0,2025-10-26T19:51:13.675915Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [AP1110] ADS 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/AP1110 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+68737,4,Imobiliária Central,68737,Mariana Coppola,5511950765612,active,10693,,2025-10-26T03:44:35.333913Z,2025-10-26T12:45:12.397892Z,0,2025-10-26T12:45:13.039772Z,"Olá! A partir de agora, o (a) Lia assumirá a conversa para continuar o seu atendimento.",bot,-,True
+68730,4,Imobiliária Central,68730,Luciana Egustavo,5511967856206,active,10687,,2025-10-26T03:36:09.009721Z,2025-10-26T12:43:54.941242Z,0,2025-10-26T12:43:56.216884Z,"Olá! A partir de agora, o (a) Romulo Sotero assumirá a conversa para continuar o seu atendimento.",bot,-,True

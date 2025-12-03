@@ -1,0 +1,20 @@
+id_vetra,company_id,company_name,customer_id,name,phone,status,thread_id,human_controller_id,created_at,updated_at,unread_messages_count,last_message_at,last_message_body,last_message_from,company_tags,pre_schedule_visit,supabase_exists
+96746,83,Lumia Investimentos Imobiliários,96746,Vilson Gomes,5549999836048,active,34005,,2025-12-02T20:07:51.338510Z,2025-12-02T20:09:54.101467Z,3,2025-12-02T20:09:54.104517Z,Quantos dormitórios você procura? 🙂,bot,-,False,False
+96592,83,Lumia Investimentos Imobiliários,96592,Lurislane Klafke CFP,5592988013244,active,33858,,2025-12-02T17:39:20.522073Z,2025-12-02T17:39:20.938641Z,0,2025-12-02T17:39:21.168441Z,"Oi Lurislane Klafke CFP tudo bem?
+Meu nome é Liah sou assistente da Lumia Invest
+
+Vi que você demonstrou interesse em um empreendimento no centro de Curitiba. Você está olhando esse projeto pensando em moradia ou investimento?",bot,-,False,False
+96409,83,Lumia Investimentos Imobiliários,96409,Theia,5541999939835,takeover,33669,,2025-12-02T13:59:38.970968Z,2025-12-02T15:09:41.091759Z,0,2025-12-02T15:09:40.994190Z,"Oi! Ariane Paz, da nossa equipe, entrou em contato com você pelo WhatsApp para dar sequência no atendimento",bot,-,False,False
+96148,83,Lumia Investimentos Imobiliários,96148,Carol Oliveira,5541996228388,active,33432,,2025-12-02T02:24:53.667689Z,2025-12-02T02:24:54.042617Z,0,2025-12-02T02:24:54.270288Z,"Oi Carol Oliveira tudo bem?
+Meu nome é Liah sou assistente da Lumia Invest
+
+Vi que você demonstrou interesse em um empreendimento no centro de Curitiba. Você está olhando esse projeto pensando em moradia ou investimento?",bot,-,False,False
+95929,83,Lumia Investimentos Imobiliários,95929,UM Viageiro,5541988915757,takeover,33244,,2025-12-01T22:01:28.287703Z,2025-12-01T22:14:18.721897Z,0,2025-12-01T22:14:17.331073Z,Queria valores e localização,lead,-,False,False
+95657,83,Lumia Investimentos Imobiliários,95657,Alexandre Scarione,5541999880732,takeover,32980,,2025-12-01T15:27:16.048286Z,2025-12-01T15:51:42.523935Z,0,2025-12-01T15:51:42.391265Z,"Oi! Ariane Paz, da nossa equipe, entrou em contato com você pelo WhatsApp para dar sequência no atendimento",bot,-,False,False
+95514,83,Lumia Investimentos Imobiliários,95514,Shirley Duks,5544991425247,takeover,32852,,2025-12-01T12:13:25.931597Z,2025-12-01T21:54:31.674813Z,0,2025-12-01T21:54:31.573899Z,"Oi! Larissa Nantes, da nossa equipe, entrou em contato com você pelo WhatsApp para dar sequência no atendimento",bot,-,False,False
+94876,83,Lumia Investimentos Imobiliários,94876,Sandra Colaço,5542999450460,takeover,32255,,2025-11-30T14:47:39.033018Z,2025-11-30T14:48:47.083676Z,0,2025-11-30T14:48:46.989562Z,"Oi! Ariane Paz, da nossa equipe, entrou em contato com você pelo WhatsApp para dar sequência no atendimento",bot,-,False,True
+94755,83,Lumia Investimentos Imobiliários,94755,Dra. Giselle Faiçal,5541999771125,active,32145,,2025-11-30T12:39:19.972477Z,2025-11-30T12:39:20.368460Z,0,2025-11-30T12:39:20.579326Z,"Oi Dra. Giselle Faiçal tudo bem?
+Meu nome é Liah sou assistente da Lumia Invest
+
+Vi que você demonstrou interesse em um empreendimento no centro de Curitiba. Você está olhando esse projeto pensando em moradia ou investimento?",bot,-,False,True
+94430,83,Lumia Investimentos Imobiliários,94430,Rosan,5548999999999,takeover,31842,,2025-11-29T21:42:58.307932Z,2025-11-30T19:59:21.896363Z,0,2025-11-30T19:59:21.803751Z,"Oi! Ariane Paz, da nossa equipe, entrou em contato com você pelo WhatsApp para dar sequência no atendimento",bot,-,False,True

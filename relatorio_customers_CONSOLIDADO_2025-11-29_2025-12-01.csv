@@ -1,0 +1,47 @@
+id_vetra,company_id,company_name,customer_id,name,phone,status,thread_id,human_controller_id,created_at,updated_at,unread_messages_count,last_message_at,last_message_body,last_message_from,company_tags,pre_schedule_visit,supabase_exists
+95791,4,Imobiliária Central,95791,Ana Paula,5512997686260,active,33101,,2025-12-01T18:26:00.673222Z,2025-12-01T18:26:00.920574Z,1,2025-12-01T18:26:01.017559Z,"Olá, me chamo Ana Paula e tenho interesse neste imóvel que vi no Chaves na Mão. Obrigado! https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sp-guarulhos-vila-augusta-60m2-RS3300/id-37244698/   Chaves na Mão - Referência: AP3259",lead,-,False,True
+95777,4,Imobiliária Central,95777,Roseli Torsani,5511952169868,active,33088,,2025-12-01T18:06:17.876723Z,2025-12-01T18:06:40.392637Z,3,2025-12-01T18:06:40.482736Z,Qual a torre e número de apartamento ?,lead,-,False,False
+95573,4,Imobiliária Central,95573,Rogério Brito (Salomon da Eztec),5511966434704,active,32904,,2025-12-01T13:28:28.731632Z,2025-12-01T13:28:28.877770Z,1,2025-12-01T13:28:28.953229Z,"Olá, me chamo Rogerio Brito eu falo com a Juliana?",lead,-,False,False
+95561,4,Imobiliária Central,95561,Fer Gramari😳,5511976456128,active,32893,,2025-12-01T13:10:30.612818Z,2025-12-01T13:14:41.116684Z,4,2025-12-01T13:14:41.171881Z,Tenho**,lead,-,False,False
+95401,4,Imobiliária Central,95401,Joao,551195879696,takeover,32744,,2025-12-01T03:28:38.351126Z,2025-12-01T10:02:12.970245Z,0,2025-12-01T10:02:12.819547Z,"Olá! A partir de agora, o (a) Lia assumirá a conversa para continuar o seu atendimento.",bot,-,False,False
+95374,4,Imobiliária Central,95374,Simone,5519989668177,takeover,32718,,2025-12-01T02:22:50.499862Z,2025-12-01T09:39:56.247644Z,0,2025-12-01T09:39:56.147766Z,"Olá! A partir de agora, o (a) Vitor Samuel Domingues assumirá a conversa para continuar o seu atendimento.",bot,-,False,False
+95370,4,Imobiliária Central,95370,Carlos,5574991151995,takeover,32715,,2025-12-01T02:17:01.922215Z,2025-12-01T02:35:56.804608Z,0,2025-12-01T02:35:56.709131Z,"Olá! A partir de agora, o (a) Silvia Graça assumirá a conversa para continuar o seu atendimento.",bot,-,False,False
+95336,4,Imobiliária Central,95336,Gustavo,5511963103445,takeover,32682,,2025-12-01T01:00:40.273330Z,2025-12-01T10:21:29.784002Z,2,2025-12-01T10:21:29.835802Z,Obrigado. Vou falar com ele,lead,-,False,False
+95322,4,Imobiliária Central,95322,Isadora Tauane,5515991963085,active,32670,,2025-12-01T00:33:29.871986Z,2025-12-01T00:37:05.757395Z,2,2025-12-01T00:36:45.454837Z,Etiqueta adicionada por Vetra IA: Lead Morno,bot,-,False,False
+95240,4,Imobiliária Central,95240,Guilherme,5515974036200,active,32591,,2025-11-30T22:39:31.586445Z,2025-11-30T22:39:31.953239Z,0,2025-11-30T22:39:32.210570Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [CA0639] Consultaram seu WhatsApp no anúncio Casa com 2 dormitórios à venda, 50 m por R$ 2 ...! CÓD: - REF:#155696185# | Sorocaba, Éden 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/CA0639 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,False,True
+95208,4,Imobiliária Central,95208,Fran,5515988460145,takeover,32560,,2025-11-30T21:39:04.305031Z,2025-11-30T21:44:06.142073Z,13,2025-11-30T21:44:06.194955Z,Nao entendi,lead,-,False,True
+95178,4,Imobiliária Central,95178,Jessica,5511913547661,takeover,32533,,2025-11-30T20:49:59.277505Z,2025-12-01T14:26:30.772959Z,2,2025-12-01T14:26:30.827842Z,Tudo bem ?,lead,-,False,True
+95169,4,Imobiliária Central,95169,Fernanda,5511988080207,active,32524,,2025-11-30T20:31:39.494662Z,2025-11-30T20:31:39.862341Z,0,2025-11-30T20:31:40.083682Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [SO0547] Consultaram seu WhatsApp no anúncio Sobrado à venda, 144m , com 2 dormitórios send ...! CÓD: - REF:#155693777# | Guarulhos, Jardim Adriana 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/SO0547 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,False,True
+95106,4,Imobiliária Central,95106,Cristina,5519993621961,takeover,32465,,2025-11-30T18:45:21.478137Z,2025-11-30T23:00:13.135523Z,0,2025-11-30T23:00:12.901132Z,"Olá! A partir de agora, o (a) CLAUDIO CAMARGO assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+95100,4,Imobiliária Central,95100,Carla,5515981029600,takeover,32461,,2025-11-30T18:40:32.492621Z,2025-11-30T19:00:59.979091Z,0,2025-11-30T19:00:59.840258Z,"Olá! A partir de agora, o (a) Elisa Trench assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+95004,4,Imobiliária Central,95004,Alexandre Santos dos Reis,5524999475807,takeover,32374,,2025-11-30T17:19:20.474391Z,2025-11-30T17:31:20.634094Z,8,2025-11-30T17:31:20.688637Z,Obrigado,lead,-,False,True
+94900,4,Imobiliária Central,94900,Francisco Assis,5515998411458,takeover,32277,,2025-11-30T15:08:59.927895Z,2025-11-30T15:10:23.217929Z,1,2025-11-30T15:10:23.122479Z,"Olá! A partir de agora, o (a) Silvia Graça assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94760,4,Imobiliária Central,94760,Jessica Venceslau,5511961615924,takeover,32149,,2025-11-30T12:45:01.171931Z,2025-11-30T12:48:24.322173Z,0,2025-11-30T12:48:24.230757Z,"Olá! A partir de agora, o (a) Sergio Marques assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94745,4,Imobiliária Central,94745,Leilian Tavares,5511976374746,takeover,32135,,2025-11-30T12:22:16.242287Z,2025-12-01T14:53:19.692484Z,8,2025-12-01T14:53:20.051130Z,Tudo bem?,lead,-,False,True
+94733,4,Imobiliária Central,94733,Isabella,5511942099444,takeover,32123,,2025-11-30T11:56:30.232436Z,2025-11-30T12:20:59.457331Z,1,2025-11-30T12:20:59.365636Z,"Olá! A partir de agora, o (a) Tafarel assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94701,4,Imobiliária Central,94701,Simone Oliveira,5511961502804,takeover,32094,,2025-11-30T10:34:51.773667Z,2025-11-30T12:29:44.875692Z,0,2025-11-30T12:29:44.785110Z,"Olá! A partir de agora, o (a) Fernanda Correia Soares assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94590,4,Imobiliária Central,94590,Maziero - 15 🫡🇧🇷,5511974590178,takeover,31991,,2025-11-30T02:11:03.849087Z,2025-11-30T12:14:31.953215Z,1,2025-11-30T12:14:31.851612Z,"Olá! A partir de agora, o (a) Romulo Sotero assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94394,4,Imobiliária Central,94394,Renato,5515991807893,takeover,31812,,2025-11-29T20:35:22.737064Z,2025-11-29T20:39:06.383855Z,8,2025-11-29T20:39:06.613373Z,?,lead,-,False,True
+94251,4,Imobiliária Central,94251,Rodrigo Andrade,5511982479058,takeover,31684,,2025-11-29T17:21:22.156162Z,2025-11-29T17:36:49.048320Z,0,2025-11-29T17:36:48.954395Z,"Olá! A partir de agora, o (a) Luccas Silva assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94141,4,Imobiliária Central,94141,Anderson,5515997238246,takeover,31582,,2025-11-29T14:20:28.798776Z,2025-11-29T14:41:40.941991Z,5,2025-11-29T14:41:40.848666Z,"Olá! A partir de agora, o (a) Silvia Graça assumirá a conversa para continuar o seu atendimento.",bot,-,False,True
+94120,4,Imobiliária Central,94120,Ana,5511941578279,takeover,31562,,2025-11-29T13:53:03.652829Z,2025-11-29T13:54:48.266472Z,1,2025-11-29T13:54:48.268918Z,➡️ Mais detalhes: https://imoveis.c2sapp.com/imoveis/Qe1wPEZb,bot,-,False,True
+94094,4,Imobiliária Central,94094,Alexandre,551155978487,active,31538,,2025-11-29T13:31:33.650225Z,2025-11-29T13:31:38.431955Z,0,2025-11-29T13:31:38.436730Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: [AP1470] ADS 
+
+Link do anúncio: www.imobiliariacentral.com.br/imovel/AP1470 
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,False,True
+94088,4,Imobiliária Central,94088,José,5562982411791,takeover,31532,,2025-11-29T13:18:34.177345Z,2025-11-29T13:39:41.836976Z,0,2025-11-29T13:39:41.729085Z,"Olá! A partir de agora, o (a) Elisa Trench assumirá a conversa para continuar o seu atendimento.",bot,-,False,True

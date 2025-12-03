@@ -1,0 +1,15 @@
+id_vetra,company_id,company_name,customer_id,name,phone,status,thread_id,human_controller_id,created_at,updated_at,unread_messages_count,last_message_at,last_message_body,last_message_from,company_tags,supabase_exists
+61477,4,Imobiliária Central,61477,Sérgio,5515997162707,active,4878,,2025-10-15T02:32:45.848316Z,2025-10-15T11:26:49.772907Z,1,2025-10-15T11:26:49.821707Z,Obrigado,lead,-,True
+61389,4,Imobiliária Central,61389,Ronan Pedro Silva,5519987247879,active,4807,,2025-10-14T23:58:55.562558Z,2025-10-14T23:58:55.910909Z,0,2025-10-14T23:58:55.963373Z,"Olá, tudo bem? ☺️
+
+Eu sou a Aurora da Imobiliária Central e quero te ajudar na busca do seu novo imóvel: FORMS FRANQUEADOS PLANO HOME 
+
+Link do anúncio:  -  
+
+*Quando você tem disponibilidade para visitar o imóvel?*",bot,-,True
+61371,4,Imobiliária Central,61371,Gislene Castro,5511996338742,active,4793,,2025-10-14T23:21:48.577284Z,2025-10-14T23:22:14.636260Z,0,2025-10-14T23:22:15.035026Z,"Olá! A partir de agora, o (a) Tafarel assumirá a conversa para continuar o seu atendimento.",bot,-,True
+61370,4,Imobiliária Central,61370,Rafaela Carvalho,5515991901792,active,4792,,2025-10-14T23:20:42.935285Z,2025-10-15T13:25:31.817123Z,7,2025-10-15T13:25:32.732102Z,"Olá! A partir de agora, o (a) Taís Fernanda da Silva assumirá a conversa para continuar o seu atendimento.",bot,-,True
+61365,4,Imobiliária Central,61365,Milena,5511962874888,active,4788,,2025-10-14T23:09:18.302110Z,2025-10-15T12:58:21.331980Z,23,2025-10-15T12:58:21.389340Z,Ok,lead,-,True
+61026,4,Imobiliária Central,61026,Sandro,5511964697348,active,4498,,2025-10-14T14:36:40.838347Z,2025-10-14T14:53:41.460554Z,1,2025-10-14T14:53:42.047876Z,"Olá! A partir de agora, o (a) Romulo Sotero assumirá a conversa para continuar o seu atendimento.",bot,-,True
+60885,4,Imobiliária Central,60885,Paulo,5511945422434,active,4378,,2025-10-14T10:17:43.735347Z,2025-10-14T10:43:06.723194Z,8,2025-10-14T10:43:06.726444Z,Você aceita ver opções de apartamentos na região ou prefere expandir para cidades próximas?,bot,-,True
+60843,4,Imobiliária Central,60843,Edleide Alves,5511986401690,active,4343,,2025-10-14T04:33:57.330220Z,2025-10-14T13:09:26.949177Z,1,2025-10-14T13:09:26.997332Z,Ok,lead,-,True
