@@ -55,7 +55,7 @@ SUPABASE_CHECK_MODE  = os.getenv("SUPABASE_CHECK_MODE", "filter")
 SUPABASE_BATCH_SIZE  = int(os.getenv("SUPABASE_BATCH_SIZE", "500"))
 
 # 📡 Webhook fixo (sem token)
-TARGET_POST_URL = "https://n8n.vetraia.com/webhook-test/7c70edea-2570-4abe-b351-62ca01f7cac4"
+TARGET_POST_URL = "https://n8n.vetraia.com/webhook/7c70edea-2570-4abe-b351-62ca01f7cac4"
 
 CSV_COLUMNS = [
     "id_vetra", "company_id", "company_name", "customer_id", "name", "phone",
