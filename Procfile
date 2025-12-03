@@ -1,0 +1,1 @@
+web: uvicorn customer_vetra_pipeline_api:build_app --host 0.0.0.0 --port $PORT

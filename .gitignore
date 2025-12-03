@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.csv
+.env
+consolidado_companies.json
+relatorio_customers_*.csv
